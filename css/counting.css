@@ -1,0 +1,48 @@
+#lahorecouting
+{
+  width: 000px;
+	height: 40px;
+	/*background: red; */
+	 text-align:center;
+  margin:0px;
+}
+.count
+{
+/* line-height: 000px;
+  margin-left:00px;*/
+  color:#DEA202;
+  font-weight:bold;
+  font-size:35px;
+  text-align:center;
+}
+
+
+
+#talkbubble {
+   width: 00px;
+   height: 00px;
+   background: red;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:   10px;
+  float:center;
+  margin:00px;
+}
+#talkbubble:before {
+   content:"";
+   position: absolute;
+   /*right: 100%;
+   top: 26px;*/
+   width: 0;
+   height: 0;
+  /* border-top: 13px solid transparent;
+   border-right: 26px solid red;
+   border-bottom: 13px solid transparent;*/
+}
+
+.linker
+{
+  font-size : 20px;
+  font-color: black;
+}
